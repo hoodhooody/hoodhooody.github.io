@@ -2,7 +2,7 @@
 layout: post
 title: "Why We Must Resist The Return to Office"
 date: 2023-07-06
-description: "Dive into the world of game development with the Chaos Goblin approach. This guide explains how to navigate through challenges, innovate through trickery, and deliver an unforgettable user experience. Gain insights into best practices and game development solutions that work. Perfect read for budding game developers!"
+description: "Uncover the unnecessary office culture in tech industries with this thought-provoking article. Explore why office presence may not be necessary, the significance of advocating for work-from-home options, and the need for salary transparency. Essential reading for engineers aiming for an improved work-life balance."
 tags: [gamedev,careers,guide]
 ---
 
