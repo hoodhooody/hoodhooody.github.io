@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Why We Must Resist The Return to Office"
+date: 2023-07-06
+description: "Dive into the world of game development with the Chaos Goblin approach. This guide explains how to navigate through challenges, innovate through trickery, and deliver an unforgettable user experience. Gain insights into best practices and game development solutions that work. Perfect read for budding game developers!"
+tags: [gamedev,careers,guide]
+---
+
+*This was originally posted in LinkedIn, what follows is a revised version of that earlier post.*
+
+I believe LinkedIn posts, in general, are pretty useless and mostly consist of such luminious pearls like "Leaders should listen to their employees." These posts often receive an overwhelming number of likes and reposts with comments like "So true #wisdom," and other similar nonsense.
+
+However, I feel compelled to write this because I believe it is important.
+
+If you're an engineer, whether junior or senior, and you're applying for a position that requires you to be in the office or is a hybrid role without a valid reason, you should challenge it.
+
+Having worked in this field for over 15 years, I can confidently say that the only reason management insists on bringing employees back to the office is that they fear becoming obsolete themselves.
+
+During the pandemic, we realized that the all*powerful paper*pusher was not as indispensable as they thought. In the best case, they stay out of our way, but in the worst case, they hinder productivity significantly.
+
+With modern project management practices, careful planning, business process refinement, and the use of technology, it is entirely possible to have a clear understanding of the state of your project.
+
+However, I must emphasize that direct managers still play a crucial role. A good manager not only oversees their team's tasks but also provides training, guidance, and assistance in addressing any weaknesses. They are a combination of coach and advocate. Their role is to push you to deliver your best work while also protecting you from overworking or engaging in unnecessary conflicts with your peers.
+
+These managers are essential, and I've had the privilege of working with some truly exceptional ones at IUGO, Kabam, and most recently at Unity.
+
+Now, let's talk about your manager's manager's manager. Who is this person, and what do they do?
+
+Based on my experience, they are typically well groomed-individuals (at least compared to the average engineer in jeans, a metal t-shirt, and boots). They often have bright smiles that don't quite reach their eyes, ask simplistic questions, and have numerous letters after their name, such as MBA, CFA, FRM, CRMA, PMP, CBE, and so on.
+
+To be honest, I'm still not entirely sure what those letters mean, although I suspect they might come from the DSM-5.
+
+Alright, enough fluff. Let's get to the juicy points of this post:
+
+* If your job can be done from home, the only reason they want you back in the office is due to executive incompetence and cowardice.
+  * Never stop advocating for the option to work from home.
+* Always strive for the highest salary and comprehensive benefits for yourself and your family.
+  * Even if the additional benefits don't directly benefit you, always push for them.
+  * Never forget that if companies could get work out of you by beating you instead of paying you, they would.
+* Discuss salary openly with your peers (your company cannot prevent you from doing this, and if they try, it's illegal, and you should report them to the proper authorities).
+* Protect and mentor your junior colleagues. A new generation of young people is entering the workforce, and it's our responsibility to guide them, teach them, and pay attention to the fresh techniques and perspectives they bring. Above all, protect them from the harassment, both sexual and otherwise, that was normalized under GenX and Boomer leadership.
+  * However, this doesn't exempt you from making mistakes. You may unintentionally say or do something that makes your junior coworker uncomfortable. In such cases, as the more experienced individual, it is YOUR responsibility to apologize and commit to being better, in whatever form that may take.
