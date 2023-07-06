@@ -128,8 +128,13 @@ I'd suggest it's time for a second cuppa, wouldn't you?
 ## Notes
 
 [^0] - This is a surprisingly common phenomenom and it's denominated "The Denver Parable", for more information, refer to the following [scholarly article](https://xkcd.com/979).
+
 [^1] - This is a bit of a generalization, and like most generalizations, it may not be as helpful as a thorough analysis of your project's requirements. However, it's a good rule of thumb to postpone optimization until it's genuinely needed. These days, optimizing video games is considerably less daunting than it used to be. Some game engine companies, like Unity, might even offer to assist you with complimentary consultations. After all, it's in their best interest for you to successfully launch your game.
+
 [^2] - The workshop is one of the katas or practices I use to increase my understading of Unity. You can read more about it and other techniques [here](https://hackernoon.com/katas-for-unity-deepen-your-understanding-of-unity-or-any-other-game-engine).
+
 [^3] - You can find a really good FPS controller package alongside other useful tools in this [article](https://hackernoon.com/5-unity-extensions-that-you-will-actually-use)
+
 [^4] - This carries a caveat that approximately 95% of comments you'll receive online might be pointless, incomplete, out-of-date, or reflect the author's deeply personal beliefs, whatever they may be. Therefore, always approach such feedback with a degree of skepticism. Try to seek out the useful comments, disregard or eliminate the rest, and make a genuine effort to find someone with whom you can share your code.
+
 [^5] - Different teams uphold different norms regarding where they maintain their code documentation, and you should adhere to that. However, generally, I'd advocate for the code's documentation to reside adjacent to the code itself. If that's not feasible, consider using a [git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules) or its equivalent in your chosen code versioning system. If documentation can't be in the main repository, it should at least reside in the git submodule.
